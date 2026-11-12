@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.carryledger.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["HudMixin", "LivingEntityMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
